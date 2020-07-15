@@ -1,44 +1,65 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+<h1>Twitter Clone</h1>
+<img src="https://user-images.githubusercontent.com/63013756/87598791-abb95f00-c6c9-11ea-8dcf-c502f629fec4.png"></img>
+</div>
 
-## Available Scripts
+## 🚀 Technologies
+- React
+- Styled-Components
+- Stick-Box
+- Styled-Icons
+- Typescript
 
-In the project directory, you can run:
+## 💻 Getting Started
 
-### `yarn start`
+**Clone the project and access the folder**
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+$ git clone https://github.com/gustavo867/twiiter-clone.git && cd twiiter-clone
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+```bash
+# Install the dependencies
+$ yarn or npm
+```
 
-### `yarn test`
+## Responsive
+<img src="https://user-images.githubusercontent.com/63013756/87600831-78c39b00-c6ca-11ea-96ab-b6375f96f6a1.png"></img>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🤔 How to contribute
 
-### `yarn build`
+**Make a fork of this repository**
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Fork using GitHub official command line
+# If you don't have the GitHub CLI, use the web site to do that.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+$ gh repo fork gustavo867/twitter-clone
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Follow the steps below**
 
-### `yarn eject`
+```bash
+# Clone your fork
+$ git clone https://github.com/gustavo867/twitter-clone.git && cd twitter-clone
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Create a branch with your feature
+$ git checkout -b my-feature
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Make the commit with your changes
+$ git commit -m 'feat: My new feature'
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Send the code to your remote branch
+$ git push origin my-feature
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+After your pull request is merged, you can delete your branch
 
-## Learn More
+ 
+## 📝 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+
+Made with 💜 by Gustavo Santana 👋 [See my linkedin](https://www.linkedin.com/in/gustavo-santana-83ba611a6/)
